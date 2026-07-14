@@ -1,0 +1,23 @@
+{
+  "updatedAt": "2026-07-14T13:00:00.000Z",
+  "people": [
+    {
+      "code": "CT",
+      "name": "Nombre Apellido",
+      "project": "Proyecto",
+      "yesterdayLabel": "Monday, July 13",
+      "yesterday": [
+        "Attended project meeting",
+        "Set up the dev environment — built & installed the Android dev client, brought up web + API, verified the web↔API↔Supabase connection",
+        "Ran a QA bug hunt across web and mobile and documented ~8 bugs, converging on a shared root cause behind 4 broken flows, plus the mobile tab-bar and modal-not-dismissing bugs"
+      ],
+      "today": [
+        "Kick off the test implementation — install testing dependencies and wire up the test runner",
+        "Create the \"QA Implementation\" epic (Linear / GitHub Projects) with sub-issues per phase",
+        "Write the first regression tests covering the documented bugs — starting with the shared Plastik root cause (Create Report / Guard Tour / Location / Person) and the modal-not-dismissing case"
+      ],
+      "postedAt": "2026-07-14T13:00:00.000Z",
+      "author": ""
+    }
+  ]
+}
